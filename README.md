@@ -1,4 +1,4 @@
-Implement basic and advanced data structures that I learned in collage in C++.
+Implement basic and advanced data structures that I learned in College in C++.
 -Queues.
 -Stacks.
 -Sets.
