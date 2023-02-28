@@ -5,5 +5,6 @@ Implement basic and advanced data structures that I learned in College in C++.
 -Trees.
 -Tries.
 -Hash Tables.
+-Bloom Filters.
 -Skip-Lists.
 
